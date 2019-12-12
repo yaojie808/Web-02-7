@@ -8,6 +8,7 @@ ul,li{
 #boxMax{
 	width:100%;
 	margin:auto;
+	position: relative;
 }
 .notice{
 	width:100%;
@@ -39,9 +40,9 @@ ul,li{
 .box{
 	width: 1200px;
 	height: 397px;
-	position: relative;
+	position: absolute;
 	left: 175px;
-	top:20px;
+	top:50px;
 	overflow: hidden;
 }
 .slider{

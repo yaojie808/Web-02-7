@@ -40,8 +40,8 @@ ul,li{
 .box{
 	width: 1200px;
 	height: 397px;
-	position: absolute;
-	left: 175px;
+	position: relative;
+	margin:auto;
 	top:50px;
 	overflow: hidden;
 }
